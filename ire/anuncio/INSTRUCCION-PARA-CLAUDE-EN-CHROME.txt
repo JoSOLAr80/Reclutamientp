@@ -1,0 +1,38 @@
+INSTRUCCIÓN PARA PEGAR EN EL PANEL DE CLAUDE EN CHROME
+(Abre primero https://adsmanager.facebook.com con tu cuenta, adjunta CAMPANA-META-ADS.txt y pega todo lo de abajo)
+---------------------------------------------------------------------------
+
+Eres mi asistente para crear una campaña en el Administrador de anuncios de Meta para la página "Iré Publicidad" (Facebook e Instagram @irepublicidad). Usa como guía el archivo adjunto CAMPANA-META-ADS.txt.
+
+Crea la campaña así:
+
+1. CAMPAÑA
+   - Nombre: "Iré · Diagnóstico gratis · WhatsApp · Nov 2026"
+   - Objetivo: Interacción
+   - Sin categoría especial de anuncios
+   - Presupuesto de la campaña (Advantage+): desactivado; el presupuesto va en el conjunto de anuncios
+
+2. CONJUNTO DE ANUNCIOS
+   - Nombre: "CDMX 25-55 · Dueños de negocio"
+   - Ubicación de la conversión: Apps de mensajes → WhatsApp, número +52 56 4217 5111
+   - Presupuesto diario: $120 MXN · Inicio: hoy · Sin fecha de finalización
+   - Público: Ciudad de México + 20 km; edad 25 a 55; idioma español
+   - Segmentación detallada: Propietarios de pequeñas empresas, Emprendimiento, Administradores de páginas de Facebook, Pequeña y mediana empresa, Marketing digital
+   - Ubicaciones: Advantage+ (automáticas)
+
+3. ANUNCIO
+   - Nombre: "Video · ¿Pagas anuncios y nadie te escribe?"
+   - Identidad: página de Facebook "Iré Publicidad" y cuenta de Instagram @irepublicidad
+   - Formato: imagen o video único → video: anuncio-ire-meta-ads-9x16.mp4
+     (cuando se abra la ventana para elegir el archivo, AVÍSAME y yo lo selecciono)
+   - Texto principal: agrega las 3 versiones (A, B y C) del archivo adjunto
+   - Título: "Diagnóstico gratis de tu publicidad"
+   - Descripción: "15 minutos · Sin compromiso"
+   - Botón: "Enviar mensaje"
+   - Plantilla de mensaje de WhatsApp: el mensaje de bienvenida y las 3 preguntas rápidas del archivo adjunto
+
+REGLAS IMPORTANTES
+- NO publiques la campaña. Déjala guardada como BORRADOR.
+- Cuando termines, muéstrame un resumen completo (objetivo, presupuesto, público, textos y vista previa del anuncio) para que yo lo revise y toque "Publicar" personalmente.
+- Si algún paso no aparece igual o Meta pide un dato que no tienes (método de pago, verificación), detente y pregúntame.
+- No cambies el método de pago ni la configuración de la cuenta publicitaria.
