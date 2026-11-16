@@ -1,0 +1,69 @@
+IRÉ PUBLICIDAD · ANUNCIO META ADS · "¿Pagas anuncios y nadie te escribe?"
+Video: anuncio-ire-meta-ads-9x16.mp4 (21.5 s, vertical 9:16, subtítulos incluidos)
+
+=====================================================================
+1. CONFIGURACIÓN DE LA CAMPAÑA (Administrador de anuncios)
+=====================================================================
+Objetivo: Interacción  →  Ubicación de la conversión: Apps de mensajes → WhatsApp
+Número de WhatsApp: +52 56 4217 5111
+Categoría especial: ninguna
+Presupuesto de prueba: $120 MXN diarios durante 7 días (≈ $840 MXN)
+Calendario: empezar hoy, sin fecha de fin (revisar resultados al día 4 y al día 7)
+
+Público:
+- Ubicación: Ciudad de México + 20 km (incluye Estado de México conurbado)
+- Edad: 25 a 55 años
+- Intereses (segmentación detallada): Propietarios de pequeñas empresas,
+  Emprendimiento, Administradores de páginas de Facebook, Pequeña y mediana empresa,
+  Marketing digital
+- Activar "Público Advantage+" para que Meta amplíe si encuentra mejores resultados
+
+Ubicaciones: Advantage+ (automáticas). El video vertical funciona en Reels, Historias
+y Feed (en Feed Meta lo recorta a 4:5; todo el texto queda dentro del área visible).
+
+=====================================================================
+2. TEXTOS DEL ANUNCIO
+=====================================================================
+TEXTO PRINCIPAL (sube las 3 versiones; Meta muestra la que mejor funcione)
+
+A)
+¿Pagas anuncios y nadie te escribe? 🤔
+El problema no es el anuncio, es la estrategia.
+En Iré Publicidad creamos campañas en Facebook, Instagram y TikTok que llenan tu WhatsApp de clientes reales.
+🎁 Diagnóstico gratis de 15 minutos. Toca "Enviar mensaje".
+
+B)
+Los likes no pagan la renta. Los clientes, sí. 💰
+Estrategia + contenido + anuncios en un solo equipo, con reporte claro cada mes.
+Escríbenos y recibe tu diagnóstico gratis 👇
+
+C)
+🌱 Sembramos hoy, cosechas clientes.
+Si tu negocio publica pero no vende, en 15 minutos te decimos qué está fallando y cómo arreglarlo. Gratis y sin compromiso.
+
+TÍTULO: Diagnóstico gratis de tu publicidad
+DESCRIPCIÓN: 15 minutos · Sin compromiso
+BOTÓN (CTA): Enviar mensaje
+
+MENSAJE DE BIENVENIDA EN WHATSAPP (plantilla del anuncio):
+¡Hola! 👋 Gracias por escribir a Iré Publicidad. Para tu diagnóstico gratis cuéntanos:
+1) ¿Qué tipo de negocio tienes?  2) ¿Ya haces anuncios?  3) ¿Qué te gustaría vender más?
+Preguntas rápidas sugeridas:
+- Quiero mi diagnóstico gratis
+- ¿Cuánto cuestan sus servicios?
+- ¿Cómo trabajan?
+
+=====================================================================
+3. CÓMO MEDIRLO
+=====================================================================
+- Costo por conversación iniciada: es la métrica principal. Anótala el día 4.
+- Tasa de reproducción de 3 segundos (ThruPlay / Hook rate): si es menor a 25%, cambiar el gancho.
+- Conversaciones que se convierten en cita de diagnóstico: llevar la cuenta en una libreta o en WhatsApp Business con etiquetas.
+- Día 7: si el costo por conversación es aceptable para ti, subir el presupuesto 20% cada 3 días.
+
+=====================================================================
+4. REGLAS DE META PARA QUE NO TE LO RECHACEN
+=====================================================================
+- No prometer resultados garantizados ("te garantizamos 100 clientes").
+- No usar capturas falsas de resultados ni logos de Facebook/Instagram/TikTok como si fueras Meta.
+- Página con nombre, foto, portada y presentación completos (ya lo tienes).
