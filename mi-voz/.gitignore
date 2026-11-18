@@ -1,0 +1,6 @@
+# Tu voz es un dato personal: nunca subas las muestras ni los audios a un repositorio público.
+muestras/*
+!muestras/.gitkeep
+salidas/*
+!salidas/.gitkeep
+.venv/

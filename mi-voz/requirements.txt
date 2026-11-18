@@ -1,0 +1,2 @@
+# Instala primero PyTorch para tu equipo (ver README), después esto:
+chatterbox-tts==0.1.7
