@@ -1,0 +1,4 @@
+# Audio y video con voz clonada: no subir mientras el repositorio sea público
+voz-clonada*.wav
+*voz-clonada*.mp4
+mudo.mp4
