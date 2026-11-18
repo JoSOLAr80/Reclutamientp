@@ -1,0 +1,99 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;800&family=Inter:wght@500;700;800&family=JetBrains+Mono:wght@500;700&display=block" rel="stylesheet">
+<script src="timeline.js"></script>
+<style>body{margin:0;background:#000}#s{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:Inter}
+.e{position:absolute;opacity:0}.c{left:0;right:0;text-align:center}
+.bg{position:absolute;inset:0}.D{background:#141414}.A{background:#F2E8DC}
+.hd{left:70px;right:70px;top:300px;display:flex;justify-content:space-between;font:700 24px 'JetBrains Mono';letter-spacing:4px}
+.h{left:70px;right:70px;text-align:center;font:800 96px/1.05 Outfit;letter-spacing:-2px}.h b{color:#C1121F}.dk{color:#fff}.lt{color:#141414}
+.card{background:#fff;border-radius:22px;box-shadow:0 18px 50px rgba(0,0,0,.12);box-sizing:border-box}
+.mono{font:700 22px 'JetBrains Mono';letter-spacing:3px;color:#8a7f72}
+.cell{width:120px;height:70px;border-radius:14px;box-sizing:border-box}
+.bub{left:200px;right:200px;padding:22px 26px}.bub p{margin:0;font:700 36px Inter;color:#141414}.bub span{display:block;margin-top:8px;font:700 20px 'JetBrains Mono';letter-spacing:3px;color:#C1121F}
+.chk{left:130px;right:100px;display:flex;align-items:center;gap:26px;font:700 40px Inter;color:#141414}.chk i{flex:none;width:72px;height:72px;border-radius:50%;background:#C1121F;color:#fff;font:800 44px/72px Inter;text-align:center;font-style:normal}
+.band{position:absolute;left:0;right:0;bottom:0;height:16px;background:#C1121F;z-index:50}</style></head><body><div id="s">
+<!-- fondos -->
+<div class="e bg D" data-s="0" data-o="0" data-fx="wipe"></div>
+<div class="e bg A" data-s="1" data-o="0" data-fx="wipe"></div>
+<div class="e bg D" data-s="3" data-o="0" data-fx="wipe"></div>
+<div class="e bg A" data-s="4" data-o="0" data-fx="wipe"></div>
+<div class="e bg D" data-s="5" data-o="0" data-fx="wipe"></div>
+<div class="e bg A" data-s="6" data-o="0" data-fx="wipe"></div>
+<div class="e bg D" data-s="8" data-o="0" data-fx="wipe"></div>
+<!-- etiquetas -->
+<div class="e hd" data-s="0" data-o="0" style="color:#F2E8DC"><span>SIEMBRA 001</span><span>PUBLICIDAD PARA CONSULTORIOS</span></div>
+<div class="e hd" data-s="1" data-o="0" data-until="2" style="color:#8a7f72"><span>SIEMBRA 001</span><span>PUBLICIDAD PARA CONSULTORIOS</span></div>
+<div class="e hd" data-s="3" data-o="0" style="color:#F2E8DC"><span>SIEMBRA 001</span><span>PUBLICIDAD PARA CONSULTORIOS</span></div>
+<div class="e hd" data-s="4" data-o="0" style="color:#8a7f72"><span>SIEMBRA 001</span><span>PUBLICIDAD PARA CONSULTORIOS</span></div>
+<div class="e hd" data-s="5" data-o="0" style="color:#F2E8DC"><span>SIEMBRA 001</span><span>PUBLICIDAD PARA CONSULTORIOS</span></div>
+<div class="e hd" data-s="6" data-o="0" data-until="7" style="color:#8a7f72"><span>SIEMBRA 001</span><span>PUBLICIDAD PARA CONSULTORIOS</span></div>
+<!-- 0 gancho -->
+<div class="e" data-s="0" data-o=".1" data-fx="ring" style="left:140px;top:560px;width:800px;height:800px"><svg width="800" height="800"><circle class="rg" cx="400" cy="400" r="380" fill="none" stroke="#C1121F" stroke-width="10" stroke-dasharray="2388" stroke-dashoffset="2388" transform="rotate(-90 400 400)"/></svg></div>
+<div class="e h dk" data-s="0" data-o=".1" style="top:820px;font-size:104px">¿Tienes un<br><b>consultorio?</b></div>
+<!-- 1 hora -->
+<div class="e h lt" data-s="1" data-o="0" data-fx="type" data-dur=".8" style="top:420px">Es lunes,</div>
+<div class="e card" data-s="1" data-o=".4" data-fx="pop" style="left:290px;top:640px;width:500px;height:300px;text-align:center;padding-top:44px"><div class="mono">HORA DE CONSULTA</div><div style="font:800 140px/1.1 Outfit;color:#141414">9:00<span style="font-size:60px"> am</span></div></div>
+<!-- 2 agenda -->
+<div class="e h lt" data-s="2" data-o="0" style="top:420px;font-size:84px">y tu agenda tiene<br><b>más huecos que citas</b></div>
+<div id="grid"></div>
+<div class="e c mono" data-s="2" data-o="1.6" style="top:1150px;font-size:26px">4 DE 25 CITAS AGENDADAS</div>
+<!-- 3 te buscan -->
+<div class="e h dk" data-s="3" data-o="0" style="top:420px;font-size:84px">Tus pacientes<br>te buscan en redes…</div>
+<div class="e card" data-s="3" data-o=".5" data-fx="up" style="left:170px;top:680px;width:740px;height:96px;border-radius:48px;padding:26px 36px;font:600 38px Inter;color:#555">🔍 <span data-type="doctor cerca de mí" data-s="3" data-o=".8" data-dur="1.3"></span></div>
+<div class="e card" data-s="3" data-o="2.3" data-fx="pop" style="left:170px;top:810px;width:740px;padding:30px 36px"><div class="mono" style="font-size:20px">PATROCINADO</div><div style="font:800 44px Outfit;color:#141414;margin:8px 0 18px">Otro consultorio</div><div style="display:inline-block;background:#e6e6e6;color:#333;font:800 30px Inter;padding:14px 28px;border-radius:999px">Agenda tu cita</div></div>
+<div class="e h" data-s="3" data-o="3" data-fx="pop" style="top:1100px;font-size:72px;color:#C1121F">…y encuentran a otro.</div>
+<!-- 4 dinero -->
+<div class="e h lt" data-s="4" data-o="0" style="top:420px;font-size:84px">Cada hueco es dinero<br><b>que no regresa</b></div>
+<div class="e card" data-s="4" data-o=".5" data-fx="up" style="left:190px;top:680px;width:700px;padding:36px 44px;font:600 38px Inter;color:#141414">
+<div style="display:flex;justify-content:space-between;margin-bottom:22px"><span>Citas vacías</span><b>21</b></div>
+<div style="display:flex;justify-content:space-between;margin-bottom:22px"><span>Consulta promedio</span><b>$600</b></div>
+<div style="border-top:3px dashed #ccc;padding-top:22px;display:flex;justify-content:space-between;font:800 50px Outfit"><span>Se fueron</span><span style="color:#C1121F">$12,600</span></div>
+<div class="mono" style="margin-top:22px;font-size:20px">MONTOS DE EJEMPLO · POR SEMANA</div></div>
+<!-- 5 sembramos -->
+<div class="e h dk" data-s="5" data-o="0" style="top:420px;font-size:84px">Por eso<br><b>sembramos campañas</b></div>
+<div class="e c" data-s="5" data-o=".3" style="top:640px;font:600 46px Inter;color:#F2E8DC">para consultorios</div>
+<div class="e" data-s="5" data-o=".6" data-fx="grow" data-dur="1" style="top:820px;left:410px;transform-origin:50% 100%"><svg viewBox="0 0 260 300" width="260" height="300"><path d="M126 300V150" stroke="#F2E8DC" stroke-width="16" stroke-linecap="round"/><path d="M130 170C130 90 180 30 250 20C250 110 200 165 130 170Z" fill="#C1121F"/><path d="M126 200C126 140 80 95 14 88C14 160 60 200 126 200Z" fill="#C1121F"/></svg></div>
+<div class="e" data-s="5" data-o=".5" data-fx="barX" data-dur=".5" style="top:1120px;left:240px;width:600px;height:8px;background:#F2E8DC;border-radius:4px"></div>
+<!-- 6 anuncio + chats -->
+<div class="e h lt" data-s="6" data-o="0" style="top:400px;font-size:76px">Pacientes directo<br>a tu <b>WhatsApp</b></div>
+<div class="e card" data-s="6" data-o=".4" data-fx="pop" style="left:200px;top:600px;width:680px;padding:26px 32px;display:flex;align-items:center;justify-content:space-between"><div><div class="mono" style="font-size:18px">TU CONSULTORIO · PATROCINADO</div><div style="font:800 36px Outfit;color:#141414;margin-top:6px">Agenda tu cita hoy</div></div><div style="background:#C1121F;color:#fff;font:800 24px Inter;padding:14px 18px;border-radius:999px;white-space:nowrap">Enviar mensaje</div></div>
+<div class="e card bub" data-s="6" data-o="1.4" data-fx="pop" style="top:790px"><p>¿Tiene cita el jueves?</p><span>NUEVO PACIENTE</span></div>
+<div class="e card bub" data-s="6" data-o="2.2" data-fx="pop" style="top:930px"><p>¿Cuánto cuesta la consulta?</p><span>NUEVO PACIENTE</span></div>
+<div class="e card bub" data-s="6" data-o="3" data-fx="pop" style="top:1070px"><p>¿Aceptan pacientes nuevos?</p><span>NUEVO PACIENTE</span></div>
+<!-- 7 checklist -->
+<div class="e h lt" data-s="7" data-o="0" style="top:420px;font-size:84px">Todo lo hacemos<br><b>por ti</b></div>
+<div class="e chk" data-s="7" data-o=".3" data-fx="left" style="top:700px"><i>✓</i>Estrategia para tu especialidad</div>
+<div class="e chk" data-s="7" data-o="1" data-fx="left" style="top:830px"><i>✓</i>Anuncios en Facebook e Instagram</div>
+<div class="e chk" data-s="7" data-o="1.8" data-fx="left" style="top:960px"><i>✓</i>Reporte claro cada mes</div>
+<!-- 8 escribenos -->
+<div class="e h dk" data-s="8" data-o="0" style="top:440px">Escríbenos</div>
+<div class="e card" data-s="8" data-o=".3" data-fx="up" style="left:220px;top:620px;width:640px;height:120px;border-radius:60px;padding:24px 44px;font:800 60px Outfit;color:#141414;text-align:right"><span data-type="SIEMBRA" data-s="8" data-o=".6" data-dur="1"></span><span style="color:#C1121F">|</span></div>
+<div class="e c" data-s="8" data-o="1.4" data-fx="pop" style="top:800px"><span style="display:inline-block;background:#25D366;color:#fff;font:800 42px Inter;padding:20px 48px;border-radius:999px">WhatsApp</span></div>
+<div class="e c" data-s="8" data-o="1.7" style="top:930px;font:700 92px 'JetBrains Mono';color:#fff;letter-spacing:4px">56 4217 5111</div>
+<!-- 9 cierre -->
+<img class="e" data-s="9" data-o="0" data-fx="pop" src="../ire-icono.svg" style="width:240px;left:420px;top:420px;border-radius:50%">
+<div class="e h dk" data-s="9" data-o=".15" style="top:690px;font-size:116px">IR<b>É</b></div>
+<div class="e c" data-s="9" data-o=".25" style="top:815px;font:800 30px Inter;letter-spacing:16px;color:#F2E8DC">PUBLICIDAD</div>
+<div class="e c" data-s="9" data-o=".5" style="top:900px;font:700 48px Inter;color:#fff">Sembramos hoy, <span style="color:#C1121F">cosechas pacientes.</span></div>
+<div class="e c" data-s="9" data-o=".8" style="top:1010px;font:700 30px 'JetBrains Mono';letter-spacing:4px;color:#F2E8DC">ESCRIBE «SIEMBRA» · 56 4217 5111</div>
+<div class="band"></div></div>
+<script>
+const filled=[[0,1],[1,3],[3,0],[4,2]];let g='';
+for(let c=0;c<5;c++){g+=`<div class="e c mono" data-s="2" data-o="${.3+c*.05}" style="left:${212+c*134}px;right:auto;width:120px;top:620px;font-size:24px">${'LMMJV'[c]}</div>`;
+ for(let r=0;r<5;r++){const f=filled.some(([x,y])=>x==c&&y==r);g+=`<div class="e cell" data-s="2" data-o="${.4+(c*5+r)*.035}" data-fx="pop" style="left:${212+c*134}px;top:${670+r*90}px;${f?'background:#C1121F':'border:4px dashed #c9bfb2'}"></div>`}}
+document.getElementById('grid').outerHTML=g;
+const C=x=>Math.max(0,Math.min(1,x)),E=x=>1-Math.pow(1-x,3),N=TL.length;
+document.querySelectorAll('[data-s]').forEach(el=>{const s=+el.dataset.s,u=el.dataset.until!=null?+el.dataset.until:s;const st=s==0?0:TL[s].a-.15;
+ el.dataset.in=st+ +el.dataset.o;
+ if(el.classList.contains('bg')){let nx=null;document.querySelectorAll('.bg').forEach(b=>{const bs=+b.dataset.s;if(bs>s&&(nx===null||bs<nx))nx=bs});el.dataset.out=nx===null?DUR:TL[nx].a+.7}
+ else el.dataset.out=u+1<N?TL[u+1].a-.2:DUR;});
+window.R=t=>{document.querySelectorAll('.e').forEach(el=>{const a=+el.dataset.in,b=+el.dataset.out,fx=el.dataset.fx||'up',du=+(el.dataset.dur||1);
+ if(t<a||t>b){el.style.opacity=0;return}const pi=E(C((t-a)/.4)),po=C((b-t)/.25),p=C((t-a)/du);let o=Math.min(pi,po),tr='';
+ if(fx=='up')tr=`translateY(${(1-pi)*50}px)`;else if(fx=='pop')tr=`scale(${1+.35*(1-pi)})`;else if(fx=='left')tr=`translateX(${(1-pi)*-120}px)`;
+ else if(fx=='wipe'){o=1;el.style.clipPath=`circle(${E(C((t-a)/.7))*120}% at 50% 55%)`}
+ else if(fx=='grow'){tr=`scale(${E(p)})`;o=po}else if(fx=='barX'){tr=`scaleX(${E(p)})`;o=po}
+ else if(fx=='ring'){o=po;el.querySelector('.rg').setAttribute('stroke-dashoffset',2388*(1-E(C((t-a)/1.2))))}
+ else if(fx=='type'){o=po;const f=el.dataset.full||(el.dataset.full=el.textContent);el.textContent=f.slice(0,Math.max(1,Math.ceil(f.length*p)))}
+ el.style.opacity=o;el.style.transform=tr});
+ document.querySelectorAll('[data-type]').forEach(s=>{const a=TL[+s.dataset.s].a-.15+ +s.dataset.o,f=s.dataset.type;s.textContent=f.slice(0,Math.floor(f.length*C((t-a)/+s.dataset.dur)))})};
+</script></body></html>
