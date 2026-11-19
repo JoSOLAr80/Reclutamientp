@@ -21,22 +21,30 @@ SIEMBRA 001 · CONSULTORIOS (≈ 38 s)
  10. Iré Publicidad. Sembramos hoy, cosechas pacientes.         [marca + eslogan]
 
 =====================================================================
-SIEMBRA 000 · GENERAL PARA VARIOS NICHOS (≈ 36 s)
+SIEMBRA 000 · GENERAL PARA VARIOS NICHOS (v3, ≈ 38 s)  ← VERSIÓN RECOMENDADA
 =====================================================================
-1) DOLOR (0–13 s)
-  1. ¿Tienes un restaurante, una estética, un consultorio o una tienda?   [gancho multi-nicho]
-  2. Publicas todos los días, pagas anuncios... y tu WhatsApp sigue en silencio.  [escena real]
-  3. Mientras tanto, cada cliente que no te escribe se lo lleva tu competencia.   [costo]
+1) DOLOR (0–14 s)
+  1. ¿Tienes un negocio y sientes que publicas para nadie?          [gancho: le habla a cualquier dueño]
+  2. Subes historias, pagas anuncios... y al final del día, tu WhatsApp tiene cero mensajes.  [escena concreta]
+  3. No es tu producto. Es que nadie te está encontrando.            [giro: le quita la culpa y abre la solución]
+  4. Y cada cliente que no te escribe hoy, mañana le compra a tu competencia.  [costo + urgencia]
 
-2) SOLUCIÓN (13–26 s)
-  4. En Iré Publicidad sembramos campañas para negocios como el tuyo:
-  5. estrategia, contenido y anuncios que llenan tu WhatsApp de clientes reales,
-  6. con un reporte claro cada mes.                             [prueba / confianza]
+2) SOLUCIÓN (14–27 s)
+  5. En Iré Publicidad trabajamos en tres pasos:
+  6. sembramos tu estrategia, creamos tu contenido y lanzamos anuncios que llenan tu WhatsApp de clientes reales.  [método de la marca]
+  7. Y cada mes ves en un reporte cuántos llegaron y cuánto te costó cada uno.  [prueba + transparencia]
 
-3) LLAMADO A LA ACCIÓN (26–36 s)
-  7. Escríbenos la palabra "siembra" por WhatsApp,
-  8. y recibe un diagnóstico gratis de quince minutos.          [oferta sin riesgo]
-  9. Iré Publicidad. Sembramos hoy, cosechas clientes.
+3) LLAMADO A LA ACCIÓN (27–38 s)
+  8. Escríbenos hoy la palabra "siembra" por WhatsApp,
+  9. y te regalamos un diagnóstico de quince minutos para tu negocio. Solo damos cinco por semana.  [oferta + escasez]
+ 10. Iré Publicidad. Sembramos hoy, cosechas clientes.
+
+  * "Solo damos cinco por semana": úsalo solo si es real; si no, quítalo.
+
+GANCHOS ALTERNATIVOS (para probar en anuncios, cambiando solo la frase 1):
+  A. "Restaurante, estética, consultorio o tienda: si tu WhatsApp está en silencio, esto es para ti."
+  B. "¿Cuántos mensajes de clientes nuevos recibiste hoy? Si la respuesta es cero, escucha esto."
+  C. "Tu negocio no necesita más publicaciones. Necesita que lo encuentren."
 
 ---------------------------------------------------------------------
 Por qué funciona:
