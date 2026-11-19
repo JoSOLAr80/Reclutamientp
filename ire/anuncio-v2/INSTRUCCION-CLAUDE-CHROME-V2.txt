@@ -1,0 +1,19 @@
+INSTRUCCIÓN PARA EL PANEL DE CLAUDE EN CHROME · CAMBIAR AL ANUNCIO V2
+(Abre https://adsmanager.facebook.com, adjunta ESTRATEGIA-ANUNCIO-V2.txt con el botón + y pega lo de abajo)
+---------------------------------------------------------------------------
+
+Ayúdame a agregar un anuncio nuevo en el Administrador de anuncios de Meta para "Iré Publicidad", siguiendo el archivo adjunto ESTRATEGIA-ANUNCIO-V2.txt.
+
+1. Busca la campaña "Iré · Diagnóstico gratis · WhatsApp · Nov 2026" (o la campaña activa de Iré con objetivo Interacción → WhatsApp) y entra a su conjunto de anuncios.
+2. NO borres ni apagues el anuncio actual. Duplica el anuncio existente dentro del MISMO conjunto de anuncios.
+3. En el duplicado:
+   - Nombre: "Video V2 · ¿Publicas para nadie?"
+   - Cambia el video por anuncio-ire-v2-9x16.mp4 (cuando se abra la ventana para elegir archivo, AVÍSAME y yo lo selecciono).
+   - Miniatura del video: sube portada-anuncio-1080x1920.png (también la elijo yo).
+   - Texto principal: reemplaza por las 3 versiones A, B y C del archivo adjunto.
+   - Título: "Diagnóstico de regalo para tu negocio"
+   - Descripción: "15 minutos · Solo 5 por semana"
+   - Botón: "Enviar mensaje" (WhatsApp +52 56 4217 5111)
+4. No cambies el presupuesto, el público ni la configuración de la campaña o del conjunto.
+5. NO publiques. Al terminar, muéstrame un resumen y la vista previa del anuncio para que yo lo revise y toque "Publicar".
+6. Si algo no aparece igual o Meta pide un dato que no tienes, detente y pregúntame.
